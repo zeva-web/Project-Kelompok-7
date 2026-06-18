@@ -4,10 +4,11 @@
 #define WIDTH 70
 using namespace std;
 
-int main(
+int main(){
 
     cout << "epan jogang";
     cout << "epan jogang";
     cout << "epan jogang";
+    cout << "epan jogang";
     return 0; 
-)  
+} 
