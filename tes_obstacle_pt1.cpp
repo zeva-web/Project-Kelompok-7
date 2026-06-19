@@ -1,11 +1,5 @@
 #include "obstacle.cpp"
 #include <iostream>
-
 using namespace std;
-char screen[HEIGHT][WIDTH];
 
-int main(){
-
-
-    return 0; 
-} 
+void 
